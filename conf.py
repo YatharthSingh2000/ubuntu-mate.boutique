@@ -144,7 +144,7 @@ THEME = "United"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#87A752'
+THEME_COLOR = '#E97E72'
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
